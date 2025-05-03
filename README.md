@@ -18,7 +18,7 @@ const GaurabTech69 = {
   alias: "CodeBeast",
   role: "Full Stack Web Developer & Independent Trader",
   experience: "3+ Years of Web Dev, 2+ Years of Trading",
-  location: "India 🌏",
+  location: "Nepal 🌏",
   stack: [
     "React", "Next.js", "Node.js", "MongoDB", "Firebase",
     "TailwindCSS", "Pine Script", "JavaScript", "TypeScript"
