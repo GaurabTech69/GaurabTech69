@@ -1,7 +1,7 @@
 
 <h1 align="center">🚀 Welcome to the Digital Dojo of GaurabTech69 🔥</h1>
 <p align="center">
-  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=22&duration=3000&pause=1000&center=true&vCenter=true&width=500&lines=🚀+Web+Developer+by+Day;📈+Trader+by+Night;🧠+Always+Learning;⚡+Building+Beast+Level+Projects" alt="Typing SVG" />
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=22&duration=3000&pause=1000&center=true&vCenter=true&width=500&lines=🚀+Web+Developer+by+Day;📈+Trader+by+Night;🧠+Always+Learning;⚡+Building+Beast+Level+Projects" alt="" />
 </p>
 
 <p align="center">
